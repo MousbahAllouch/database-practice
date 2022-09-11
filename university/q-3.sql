@@ -1,3 +1,3 @@
-SELECT department.name
+SELECT *
 FROM department
 WHERE department.name="BIF"

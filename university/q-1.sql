@@ -1,3 +1,3 @@
-SELECT room.name
+SELECT *
 FROM room
 WHERE room.capacity>100
